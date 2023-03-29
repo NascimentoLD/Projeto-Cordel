@@ -51,7 +51,7 @@ header a:hover, footer a:hover{
 section{
     font-size: 3vw;
     font-family: var(--font03);
-    padding: 10hv;
+    padding: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
