@@ -58,6 +58,7 @@ section{
 }
 
 section >p {
+    padding-left: 30px;
     padding-bottom: 2em;
 }
 
